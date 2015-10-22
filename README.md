@@ -53,7 +53,7 @@ Quick and dirty responsive typography for the rest of us. Offers great selection
 of common font stacks, and several ways to apply them to your document. Must be
 imported before use.
 
-### [Axis](http://axis.netlify.com/) 0.3.2
+### [Axis](http://axis.netlify.com/) 0.5.1
 
 A higher-level Stylus mixin library with lots of extra functionality. Be sure
 not to miss the normalize() mixin. Axis uses and imports Nib, so Nib has been
