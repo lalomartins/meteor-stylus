@@ -18,7 +18,7 @@ Package._transitional_registerBuildPlugin({
     rupture: "0.6.1",
     axis: "0.5.1",
     typographic: "2.9.3",
-    "autoprefixer-stylus": "0.6.0"
+    "autoprefixer-stylus": "0.8.0"
   }
 });
 
